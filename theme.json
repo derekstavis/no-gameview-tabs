@@ -1,7 +1,7 @@
 {
     "name": "No Gameview Tabs",
     "author": "dereks",
-    "version": "v1.0",
+    "version": "v1.1",
     "manifest_version": 9,
     "target": "Other",
     "description": "Remove tabs from game view",
