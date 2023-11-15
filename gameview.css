@@ -7,12 +7,15 @@
   display: none;
 }
 
-.gamepadhomerecentgames_RecentGamesBackgroundFadeGradient_1ksIq {
+.appdetailsplaysection_CloudStatusRow_QvHky {
   display: none;
 }
 
-.gamepadhomerecentgames_RecentGamesBackgroundImages_30D-8
-  .gamepadhomerecentgames_RecentGamesBackground_1SRox {
-  filter: none;
-  opacity: 0.6;
+.basicappdetailssectionstyler_DeckVerifiedFeedbackContainer_3Y8xV.Panel {
+  display: none;
+}
+
+.basicappdetailssectionstyler_DeckVerifiedFeedbackContainer_3Y8xV.Panel
+  .Focusable {
+  display: none;
 }
